@@ -103,7 +103,7 @@ Para acabar con la parte dos y con nuestro exámen solo queda realizar la solici
 ![38](Capturas/f40.png) 
 ![39](Capturas/f26.png)  
 ## CONCLUSIÓN  
-Este exámen ha sido una muy buena práctica para trabajar con el control de versiones, automatizar los comandos en la consola Git Bash y aprender el proceso de clonar repositorios, añadir cambios, crear solicitudes de extracción y un largo etc que nos servirá en nuestro día a día como desarrolladores al realizar proyectos y sobre todo en equipos.
+Este exámen ha sido una muy buena práctica para trabajar con el control de versiones con Git y GitHub, automatizar los comandos en la consola Git Bash y aprender el proceso de clonar repositorios, añadir cambios, crear solicitudes de extracción y un largo etc que nos servirá en nuestro día a día como desarrolladores al realizar proyectos y sobre todo en equipos.
 
 
 
