@@ -46,8 +46,8 @@ Esto se hace mediante el comando ***" git log "***.
 Como no he realizado ningún commit más, utilizo la misma captura que la anterior.
 ![17](Capturas/f18.png)  
 ## **Crear una tabla**  
-12º. Crear una tabla en el fichero README.md con la información del docente del módulo. De nuevo, nos introducimos en el archivo README.md en nano y creamos la tabla, guardamos cambios y salimos.
-![18](Capturas/f21.png)  
+12º. Crear una tabla en el fichero README.md con la información del docente del módulo. De nuevo, nos introducimos en el archivo README.md en nano y creamos la tabla, guardamos cambios y salimos.  
+![18](Capturas/f21.png)    
 ![19](Capturas/f3.png)  
 |  NOMBRE  |  GITHUB  |
 |----------|----------|
