@@ -7,6 +7,5 @@ hasta ahora:
   
 |  NOMBRE  |  GITHUB  |  
 |----------|----------|  
-|  Máximo Fernández Riera  |  
-https://github.com/maximofernandezriera  |  
+|Máximo Fernández Riera|https://github.com/maximofernandezriera|  
 
