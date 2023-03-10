@@ -2,7 +2,7 @@
 ## PARTE 1  
 ## **Repositorio masterpidgey-examen**  
 1º. Vamos a crear un repositorio en nuestro GitHub llamado masterpidgey-examen, es muy sencillo, simplemente debemos ir al apartado **Repositories** y hacer click al botón verde **New** de la esquina superior derecha. Pondremos el nombre que queramos, añadiremos README (en nuestro caso no porque es un requisito posterior de la práctica), añadimos una licencia si se precisa y le damos a crear.  
-![1](masterpidgey-examen\Capturas/f5.png)
+![1](Capturas/f5.png)
 ![2](capturas/f1.png)  
 2º. Clonar nuestro repositio en local con el comando ***" git clone + enlace del repositorio masterpidgey-examen "***.  
 ![3](capturas/f6.png)  
