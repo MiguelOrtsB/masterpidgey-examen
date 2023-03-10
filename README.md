@@ -30,14 +30,14 @@ A continuación podremos ver que efectivamente se ha creado todo correctamente u
 ## **Añadir fichero 1.txt**  
 9º. Añadimos fichero 1.txt al repositorio local de nuevo con ***" touch "***.  
 ![12](Capturas/f16.png)  
-Yo personalmente prefiero realizar un ***" git add, git commit y git push "*** antes de crear el tag para guardar todos los cambios y subirlos correctamente al repositorio remoto. Por lo que pueda pasar... suelo realizar esto bastante a menudo por si se colapsa el programa, etc. 
+Yo personalmente prefiero realizar un ***" git add, git commit y git push "*** antes de crear el tag para guardar todos los cambios y subirlos correctamente al repositorio remoto. Por lo que pueda pasar... suelo realizar esto bastante a menudo por si falla el programa, etc. 
 ![13](Capturas/f17.png)  
 Nota* podemos ir lanzado ***" git status "*** para ver el estado del directorio y los cambios que se han preparado y los que no.  
 ## **Visualizar los commits realizados hasta el momento (el historial)**  
 Esto se hace mediante el comando ***" git log "***.
 ![14](Capturas/f18.png)  
 ## **Crear el tag v0.1**  
-10º.  Crear un tag v0.1 con ***" git tag -a v0.1 -m "Versión 1" "*** para capturar un punto en concreto en el historial de Git. Con el comando ***" git tag "*** asecas podremos visualizar el historial de tags hasta ahora.  
+10º.  Crear un tag v0.1 con ***" git tag -a v0.1 -m "Versión 1" "*** para capturar un punto en concreto en el historial de Git. Con el comando ***" git tag "*** a secas podremos visualizar el historial de tags hasta ahora.  
 ![15](Capturas/f19.png)  
 ## **Subir el tag v0.1**  
 11º. Subir los cambios al repositorio remoto. En mi caso ya lo he hecho anteriormente como he indicado, por lo que en este punto simplemente subiré el tag con el comando ***" git push origin v0.1 "***.  
