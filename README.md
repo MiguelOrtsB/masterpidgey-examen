@@ -3,4 +3,10 @@ hasta ahora:
 **git clone + enlace del repositorio**  
 **cd masterpidgey-examen/**  
 **nano README.md**  
-**git add .**
+**git add .**  
+  
+|  NOMBRE  |  GITHUB  |  
+|----------|----------|  
+|  Máximo Fernández Riera  |  
+https://github.com/maximofernandezriera  |  
+
