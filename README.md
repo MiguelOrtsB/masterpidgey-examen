@@ -7,5 +7,7 @@ hasta ahora:
   
 |  NOMBRE  |  GITHUB  |  
 |----------|----------|  
-|Máximo Fernández Riera|https://github.com/maximofernandezriera|  
+|Máximo Fernández Riera|https://github.com/maximofernandezriera|    
+  
+***NOTA* Mirar en el README.md para ver toda la documentación del exámen***
 
