@@ -9,5 +9,5 @@ hasta ahora:
 |----------|----------|  
 |Máximo Fernández Riera|https://github.com/maximofernandezriera|    
   
-## ***NOTA! Mirar en el README2.md para ver toda la documentación del exámen***
+
 
